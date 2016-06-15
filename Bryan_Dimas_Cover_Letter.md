@@ -14,7 +14,7 @@
 ---
 ## Experience
 #### Co-Founder, CTO @ One Jump &emsp; <small>*2015 - 2016*</small>
-`; Ruby on Rails`, `PostgreSQL w/ ActiveRecord`, `Devise (gem)`, `Twilio API (gem)`, `Omniauth (gem)`, `Sidekiq`, `Deploy to Heroku`, `; Javascript`, `Vanilla Javascript`, `Javascript ES6`, `jQuery`, `; Python`, `Web Scraping`, `Web Crawling`, `; HTML & CSS`, `Layout Techniques`, `Twitter Bootstrap`, `Responsive Design`, `; Source Control`, `Git & Github`
+`Ruby on Rails`, `PostgreSQL w/ ActiveRecord`, `Devise (gem)`, `Twilio API (gem)`, `Omniauth (gem)`, `Sidekiq`, `Deploy to Heroku`, `Javascript`, `Vanilla Javascript`, `Javascript ES6`, `jQuery`, `; Python`, `Web Scraping`, `Web Crawling`, `HTML & CSS`, `Layout Techniques`, `Twitter Bootstrap`, `Responsive Design`, `Source Control`, `Git & Github`
 > While working at One Jump, I developed about 75% of the entire website built with Ruby on Rails, but I also worked on a web crawler and a web scraper that we utilized to grow One Jump's database of Summer Opportunities. Both the web scraper and the web crawler were written in Python, and I effectively improved the web scraper's runtime by a whooping 845%!
 
 ---
